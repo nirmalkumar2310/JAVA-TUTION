@@ -20,6 +20,10 @@ public class JavaSumma {
 		}
 	}
 	
+	public void name() {
+		System.out.println("nirmal kumar");
+	}
+	
 	public void summma() {
 		System.out.println("hii");
 	}
